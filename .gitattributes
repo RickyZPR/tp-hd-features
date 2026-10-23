@@ -1,0 +1,6 @@
+# Bundles are byte-compared across platform builds; keep text files LF everywhere.
+* text=auto eol=lf
+# Vendored upstream code: keep its bytes exactly (third_party/README.md and each UPSTREAM.md pin them).
+third_party/** -text
+# The package's two images.
+*.png binary

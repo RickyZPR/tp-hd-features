@@ -1,0 +1,181 @@
+# tp-hd-features: never commit these. Written by tools/dist/make_repo.py.
+
+# Game files made from YOUR OWN games by tools/build_assets.py (the Python pipeline) or by the converter's
+# developer tool (hdf-convert). They contain Nintendo data: never commit or share them.
+mods/hdfeatures/res/
+mods/hdfeatures/overlay/
+mods/hdfeatures/res/stamps/stamps/
+mods/hdfeatures/res/stamps/stamp_icons/
+mods/hdfeatures/res/stamps/hdtext/
+mods/hdfeatures/res/stamps/stampbook/
+mods/hdfeatures/res/cave/hdtext/
+mods/hdfeatures/res/cave/amiibo/
+mods/hdfeatures/res/cave/confirm/
+mods/hdfeatures/res/cave/colossal_wallet.png
+mods/hdfeatures/res/cave/hd_tags.bin
+mods/hdfeatures/res/icon.png
+mods/hdfeatures/res/banner.png
+art/hdfeatures/*.png
+art/candidates/
+art/work/
+*.dusk
+output (DO NOT SHARE)/
+
+# The same files wherever they are written, for example `build_assets.py --out-dir` or `hdf-convert make --out`
+# into a folder inside the repository (a scratch folder outside it is best): HD's text, the game-made tables and
+# the made set with its stamp.
+hdtext/
+files-*/
+tmp-*/
+cache.json
+cache.json.tmp
+floors.json
+stamps.json
+book.json
+layout.json
+confirm.json
+
+# The retired 2.0.0 player builder: never public.
+hdf_builder.py
+hdf_inputs.py
+discimg.py
+test_discimg.py
+
+# Your own copies of the games and anything taken out of them (disc images, extracted discs, the Wii U title,
+# saves): never commit them, not even one file.
+*.afc
+*.app
+*.arc
+*.ast
+*.aw
+*.baa
+*.bca
+*.bck
+*.bdl
+*.bflim
+*.bflyt
+*.bfn
+*.bfres
+*.bin
+*.binput
+*.blo
+*.bmd
+*.bmg
+*.bnr
+*.bpa
+*.bpk
+*.brk
+*.bti
+*.btk
+*.btp
+*.cert
+*.ciso
+*.dat
+*.dds
+*.dol
+*.dzr
+*.dzs
+*.gci
+*.gcm
+*.gcz
+*.gtx
+*.gz
+*.h3
+*.img
+*.iso
+*.jpa
+*.jpc
+*.map
+*.nfs
+*.pack
+*.rarc
+*.raw
+*.rel
+*.rpl
+*.rpx
+*.rvz
+*.sarc
+*.sav
+*.str
+*.szs
+*.tga
+*.tgc
+*.thp
+*.tik
+*.tmd
+*.tpl
+*.wbfs
+*.wia
+*.wua
+*.wud
+*.wux
+*.zst
+app.xml
+cos.xml
+meta.xml
+
+# Images, media, fonts, archives, binaries, scripts, logs and tables: this repository has none, except the
+# package's two neutral images below (drawn by tools/dist/base_art.py, no game art).
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.bmp
+*.tif
+*.tiff
+*.ico
+*.mp4
+*.webm
+*.wav
+*.ogg
+*.ttf
+*.otf
+*.zip
+*.7z
+*.rar
+*.exe
+*.dll
+*.lib
+*.pdb
+*.obj
+*.log
+*.csv
+*.bat
+!/mods/hdfeatures/package/res/banner.png
+!/mods/hdfeatures/package/res/icon.png
+
+# Dusklight's source code: cmake/FetchDusklight.cmake downloads it at configure time.
+/dusklight/
+
+# Build trees and outputs (hdf-convert writes its test outputs into the build folder).
+build/
+build-*/
+cmake-build-*/
+/dist/
+/publish/
+mod_data/
+.vs/
+.vscode/
+.idea/
+CMakeUserPresets.json
+
+# Python.
+__pycache__/
+*.pyc
+
+# System and private files.
+Thumbs.db
+desktop.ini
+.DS_Store
+.env
+
+# Developer-only material that stays on the developer's PC.
+/research/
+/reference/
+/cache/
+/testenv/
+/backups/
+/tools/dist/legacy/
+/RESUME.md
+/private_scan_patterns.txt

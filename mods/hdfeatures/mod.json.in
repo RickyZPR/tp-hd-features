@@ -1,0 +1,9 @@
+{
+  "id": "@HDFEATURES_MOD_ID@",
+  "name": "HD Features",
+  "version": "@HDFEATURES_VERSION@",
+  "author": "Ricky",
+  "description": "Unofficial fan mod, not affiliated with the Dusklight team. Twilight Princess HD's 50 stamps and its Cave of Shadows. Stamps: open the Collection screen and pick the stamp slot. Cave: press Z on the Collection screen to scan the Wolf Link amiibo.",
+  "icon": "res/icon.png",
+  "banner": "res/banner.png"
+}

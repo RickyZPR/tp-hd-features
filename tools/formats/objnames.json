@@ -1,0 +1,3666 @@
+{
+"AJnot": [
+"fpcNm_Tag_AJnot_e",
+-1
+],
+"ALLdie": [
+"fpcNm_ALLDIE_e",
+-1
+],
+"AND_SW": [
+"fpcNm_ANDSW_e",
+-1
+],
+"AND_SW2": [
+"fpcNm_ANDSW2_e",
+-1
+],
+"AllMato": [
+"fpcNm_TAG_ALLMATO_e",
+-1
+],
+"Arrow": [
+"fpcNm_ARROW_e",
+-1
+],
+"Aru": [
+"fpcNm_NPC_ARU_e",
+-1
+],
+"Ash": [
+"fpcNm_NPC_ASH_e",
+-1
+],
+"AshB": [
+"fpcNm_NPC_ASHB_e",
+-1
+],
+"AutoMt": [
+"fpcNm_OBJ_AUTOMATA_e",
+-1
+],
+"BYRock": [
+"fpcNm_BkyRock_e",
+-1
+],
+"B_Hashi": [
+"fpcNm_Obj_BHASHI_e",
+-1
+],
+"B_bh": [
+"fpcNm_B_BH_e",
+-1
+],
+"B_bq": [
+"fpcNm_B_BQ_e",
+-1
+],
+"B_dr": [
+"fpcNm_B_DR_e",
+-1
+],
+"B_ds": [
+"fpcNm_B_DS_e",
+-1
+],
+"B_gg": [
+"fpcNm_B_GG_e",
+-1
+],
+"B_gm": [
+"fpcNm_B_GM_e",
+-1
+],
+"B_gnd": [
+"fpcNm_B_GND_e",
+-1
+],
+"B_go": [
+"fpcNm_B_GO_e",
+-1
+],
+"B_ling": [
+"fpcNm_Obj_Mato_e",
+-1
+],
+"B_mgn": [
+"fpcNm_B_MGN_e",
+-1
+],
+"B_ob": [
+"fpcNm_B_OB_e",
+-1
+],
+"B_tn": [
+"fpcNm_B_TN_e",
+-1
+],
+"B_yo": [
+"fpcNm_B_YO_e",
+-1
+],
+"B_zant": [
+"fpcNm_B_ZANT_e",
+-1
+],
+"B_zntm": [
+"fpcNm_B_ZANTZ_e",
+-1
+],
+"B_znts": [
+"fpcNm_B_ZANTS_e",
+-1
+],
+"Bans": [
+"fpcNm_NPC_BANS_e",
+-1
+],
+"BbKago": [
+"fpcNm_OBJ_KAGO_e",
+0
+],
+"Bd": [
+"fpcNm_BD_e",
+-1
+],
+"Bed": [
+"fpcNm_OBJ_BED_e",
+-1
+],
+"Besu": [
+"fpcNm_NPC_BESU_e",
+-1
+],
+"Bg": [
+"fpcNm_BG_e",
+-1
+],
+"Bhhashi": [
+"fpcNm_Obj_Bhbridge_e",
+-1
+],
+"BigVolc": [
+"fpcNm_Obj_VolcanicBomb_e",
+-1
+],
+"BkDoorL": [
+"fpcNm_Obj_BkDoor_e",
+-1
+],
+"BkDoorR": [
+"fpcNm_Obj_BkDoor_e",
+-1
+],
+"BkLeaf": [
+"fpcNm_Obj_BkLeaf_e",
+-1
+],
+"Blsnow": [
+"fpcNm_KYTAG13_e",
+-1
+],
+"Blue_NS": [
+"fpcNm_NPC_BLUENS_e",
+-1
+],
+"Bombf": [
+"fpcNm_Obj_Bombf_e",
+-1
+],
+"Boom": [
+"fpcNm_BOOMERANG_e",
+-1
+],
+"BoomSht": [
+"fpcNm_Obj_BoomShutter_e",
+-1
+],
+"Bou": [
+"fpcNm_NPC_BOU_e",
+-1
+],
+"BouMato": [
+"fpcNm_OBJ_BOUMATO_e",
+-1
+],
+"BouS": [
+"fpcNm_NPC_BOU_S_e",
+0
+],
+"Bound": [
+"fpcNm_KYTAG09_e",
+-1
+],
+"CRVLH_U": [
+"fpcNm_Obj_CRVLH_UP_e",
+-1
+],
+"CamAreC": [
+"fpcNm_TAG_CAMERA_e",
+-1
+],
+"CamArea": [
+"fpcNm_TAG_CAMERA_e",
+-1
+],
+"CamChg": [
+"fpcNm_TAG_CAMERA_e",
+-1
+],
+"Canoe": [
+"fpcNm_CANOE_e",
+-1
+],
+"CatDoor": [
+"fpcNm_Obj_CatDoor_e",
+-1
+],
+"Cdoor": [
+"fpcNm_Obj_Cdoor_e",
+-1
+],
+"Cgate": [
+"fpcNm_Obj_Cdoor_e",
+-1
+],
+"ChkPntC": [
+"fpcNm_TAG_CHKPOINT_e",
+-1
+],
+"ChkPntS": [
+"fpcNm_TAG_CHKPOINT_e",
+-1
+],
+"Cldst00": [
+"fpcNm_Obj_Lv1Cdl00_e",
+-1
+],
+"Cldst01": [
+"fpcNm_Obj_Lv1Cdl01_e",
+-1
+],
+"ClearB": [
+"fpcNm_Obj_Cboard_e",
+-1
+],
+"Coach": [
+"fpcNm_NPC_COACH_e",
+-1
+],
+"Cow": [
+"fpcNm_COW_e",
+-1
+],
+"Crod": [
+"fpcNm_CROD_e",
+-1
+],
+"Crope": [
+"fpcNm_Obj_Crope_e",
+-1
+],
+"CrvGate": [
+"fpcNm_Obj_CRVGATE_e",
+-1
+],
+"CrvLH": [
+"fpcNm_Obj_CRVLH_DW_e",
+-1
+],
+"CrvSaku": [
+"fpcNm_Obj_CRVFENCE_e",
+-1
+],
+"CrvStel": [
+"fpcNm_Obj_CRVSTEEL_e",
+-1
+],
+"CrvWood": [
+"fpcNm_Obj_CRVHAHEN_e",
+-1
+],
+"CstaF": [
+"fpcNm_CSTAF_e",
+-1
+],
+"Cstatue": [
+"fpcNm_CSTATUE_e",
+-1
+],
+"Cwall": [
+"fpcNm_Obj_ChainWall_e",
+-1
+],
+"DK_tag": [
+"fpcNm_KYTAG04_e",
+-1
+],
+"DemoItm": [
+"fpcNm_Demo_Item_e",
+-1
+],
+"Digholl": [
+"fpcNm_Obj_Digholl_e",
+-1
+],
+"Digpl": [
+"fpcNm_Obj_Digpl_e",
+-1
+],
+"Dmidna": [
+"fpcNm_DMIDNA_e",
+-1
+],
+"Do": [
+"fpcNm_DO_e",
+-1
+],
+"Doc": [
+"fpcNm_NPC_DOC_e",
+-1
+],
+"DoorBoy": [
+"fpcNm_NPC_DOORBOY_e",
+-1
+],
+"DrSol1": [
+"fpcNm_NPC_DRSOL_e",
+0
+],
+"DrSol2": [
+"fpcNm_NPC_DRSOL_e",
+1
+],
+"Drkmst": [
+"fpcNm_KYTAG12_e",
+-1
+],
+"Drop": [
+"fpcNm_Obj_Drop_e",
+-1
+],
+"Dust": [
+"fpcNm_Obj_DUST_e",
+-1
+],
+"E_Arrow": [
+"fpcNm_E_ARROW_e",
+-1
+],
+"E_HM": [
+"fpcNm_E_HM_e",
+-1
+],
+"E_MD": [
+"fpcNm_E_MD_e",
+-1
+],
+"E_Make": [
+"fpcNm_Obj_E_CREATE_e",
+-1
+],
+"E_SB": [
+"fpcNm_E_SB_e",
+-1
+],
+"E_Zs": [
+"fpcNm_E_ZS_e",
+-1
+],
+"E_ai": [
+"fpcNm_E_AI_e",
+-1
+],
+"E_ba": [
+"fpcNm_E_BA_e",
+-1
+],
+"E_bee": [
+"fpcNm_E_BEE_e",
+-1
+],
+"E_bg": [
+"fpcNm_E_BG_e",
+-1
+],
+"E_bi": [
+"fpcNm_E_BI_e",
+-1
+],
+"E_bi_lf": [
+"fpcNm_E_BI_LEAF_e",
+-1
+],
+"E_bm6": [
+"fpcNm_Obj_Lv6bemos2_e",
+-1
+],
+"E_bs": [
+"fpcNm_E_BS_e",
+-1
+],
+"E_bu": [
+"fpcNm_E_BU_e",
+-1
+],
+"E_bug": [
+"fpcNm_E_BUG_e",
+-1
+],
+"E_cr": [
+"fpcNm_E_CR_e",
+-1
+],
+"E_db": [
+"fpcNm_E_DB_e",
+-1
+],
+"E_db_lf": [
+"fpcNm_E_DB_LEAF_e",
+-1
+],
+"E_dd": [
+"fpcNm_E_DD_e",
+-1
+],
+"E_df": [
+"fpcNm_E_DF_e",
+-1
+],
+"E_dk": [
+"fpcNm_E_DK_e",
+-1
+],
+"E_dn": [
+"fpcNm_E_DN_e",
+-1
+],
+"E_dt": [
+"fpcNm_E_DT_e",
+-1
+],
+"E_fb": [
+"fpcNm_E_FB_e",
+-1
+],
+"E_fk": [
+"fpcNm_E_FK_e",
+-1
+],
+"E_fm": [
+"fpcNm_E_FM_e",
+-1
+],
+"E_fs": [
+"fpcNm_E_FS_e",
+-1
+],
+"E_fz": [
+"fpcNm_E_FZ_e",
+-1
+],
+"E_ga": [
+"fpcNm_E_GA_e",
+-1
+],
+"E_gb": [
+"fpcNm_E_GB_e",
+-1
+],
+"E_ge": [
+"fpcNm_E_GE_e",
+-1
+],
+"E_gi": [
+"fpcNm_E_GI_e",
+-1
+],
+"E_gm": [
+"fpcNm_E_GM_e",
+-1
+],
+"E_gob": [
+"fpcNm_E_GOB_e",
+-1
+],
+"E_gs": [
+"fpcNm_E_GS_e",
+-1
+],
+"E_hb": [
+"fpcNm_E_HB_e",
+-1
+],
+"E_hb_lf": [
+"fpcNm_E_HB_LEAF_e",
+-1
+],
+"E_hp": [
+"fpcNm_E_HP_e",
+-1
+],
+"E_hz": [
+"fpcNm_E_HZ_e",
+-1
+],
+"E_is": [
+"fpcNm_E_IS_e",
+-1
+],
+"E_kg": [
+"fpcNm_E_KG_e",
+-1
+],
+"E_kk": [
+"fpcNm_E_KK_e",
+-1
+],
+"E_kr": [
+"fpcNm_E_KR_e",
+-1
+],
+"E_mf": [
+"fpcNm_E_MF_e",
+-1
+],
+"E_mk": [
+"fpcNm_E_MK_e",
+-1
+],
+"E_mm": [
+"fpcNm_E_MM_e",
+-1
+],
+"E_mm2": [
+"fpcNm_E_MM_e",
+1
+],
+"E_ms": [
+"fpcNm_E_MS_e",
+-1
+],
+"E_nest": [
+"fpcNm_E_NEST_e",
+-1
+],
+"E_nz": [
+"fpcNm_E_NZ_e",
+-1
+],
+"E_oc": [
+"fpcNm_E_OC_e",
+-1
+],
+"E_octbg": [
+"fpcNm_E_OctBg_e",
+-1
+],
+"E_ph": [
+"fpcNm_E_PH_e",
+-1
+],
+"E_pm": [
+"fpcNm_E_PM_e",
+-1
+],
+"E_po": [
+"fpcNm_E_PO_e",
+-1
+],
+"E_pz": [
+"fpcNm_E_PZ_e",
+-1
+],
+"E_rb": [
+"fpcNm_E_RB_e",
+-1
+],
+"E_rd": [
+"fpcNm_E_RD_e",
+-1
+],
+"E_rdb": [
+"fpcNm_E_RDB_e",
+-1
+],
+"E_rdy": [
+"fpcNm_E_RDY_e",
+-1
+],
+"E_s1": [
+"fpcNm_E_S1_e",
+-1
+],
+"E_sf": [
+"fpcNm_E_SF_e",
+-1
+],
+"E_sg": [
+"fpcNm_E_SG_e",
+-1
+],
+"E_sh": [
+"fpcNm_E_SH_e",
+-1
+],
+"E_sm": [
+"fpcNm_E_SM_e",
+-1
+],
+"E_sm2": [
+"fpcNm_E_SM2_e",
+-1
+],
+"E_st": [
+"fpcNm_E_ST_e",
+-1
+],
+"E_sw": [
+"fpcNm_E_SW_e",
+-1
+],
+"E_th": [
+"fpcNm_E_TH_e",
+-1
+],
+"E_tk": [
+"fpcNm_E_TK_e",
+-1
+],
+"E_tk2": [
+"fpcNm_E_TK2_e",
+-1
+],
+"E_tt": [
+"fpcNm_E_TT_e",
+-1
+],
+"E_vt": [
+"fpcNm_E_VT_e",
+-1
+],
+"E_wap": [
+"fpcNm_E_WAP_e",
+-1
+],
+"E_wb": [
+"fpcNm_E_WB_e",
+-1
+],
+"E_ws": [
+"fpcNm_E_WS_e",
+-1
+],
+"E_ww": [
+"fpcNm_E_WW_e",
+-1
+],
+"E_yc": [
+"fpcNm_E_YC_e",
+-1
+],
+"E_yd": [
+"fpcNm_E_YD_e",
+-1
+],
+"E_yd_lf": [
+"fpcNm_E_YD_LEAF_e",
+-1
+],
+"E_yg": [
+"fpcNm_E_YG_e",
+-1
+],
+"E_yh": [
+"fpcNm_E_YH_e",
+-1
+],
+"E_yk": [
+"fpcNm_E_YK_e",
+-1
+],
+"E_ym": [
+"fpcNm_E_YM_e",
+-1
+],
+"E_ymb": [
+"fpcNm_E_YMB_e",
+-1
+],
+"E_ymt": [
+"fpcNm_E_YM_TAG_e",
+-1
+],
+"E_yr": [
+"fpcNm_E_YR_e",
+-1
+],
+"E_zh": [
+"fpcNm_E_ZH_e",
+-1
+],
+"E_zm": [
+"fpcNm_E_ZM_e",
+-1
+],
+"E_zm2": [
+"fpcNm_E_ZM_e",
+1
+],
+"Econt": [
+"fpcNm_ECONT_e",
+-1
+],
+"EndCode": [
+"fpcNm_PLAY_SCENE_e",
+-1
+],
+"EvtArea": [
+"fpcNm_TAG_EVTAREA_e",
+-1
+],
+"EvtMsg": [
+"fpcNm_TAG_EVTMSG_e",
+-1
+],
+"FSeirei": [
+"fpcNm_NPC_FAIRY_SEIREI_e",
+-1
+],
+"Fairy": [
+"fpcNm_NPC_FAIRY_e",
+-1
+],
+"Fchain": [
+"fpcNm_Obj_Fchain_e",
+-1
+],
+"Fish": [
+"fpcNm_MG_FISH_e",
+-1
+],
+"Fr": [
+"fpcNm_FR_e",
+-1
+],
+"Fwall": [
+"fpcNm_Tag_FWall_e",
+-1
+],
+"GWolf": [
+"fpcNm_NPC_GWOLF_e",
+-1
+],
+"G_Kabe": [
+"fpcNm_Obj_GOMIKABE_e",
+-1
+],
+"Gadget": [
+"fpcNm_OBJ_GADGET_e",
+-1
+],
+"Gnd": [
+"fpcNm_NPC_GND_e",
+-1
+],
+"Grass": [
+"fpcNm_GRASS_e",
+-1
+],
+"GrvStn": [
+"fpcNm_Obj_GraveStone_e",
+-1
+],
+"Gstart": [
+"fpcNm_Tag_Gstart_e",
+-1
+],
+"HBarrel": [
+"fpcNm_Obj_HBarrel_e",
+-1
+],
+"HFtr": [
+"fpcNm_Obj_HFtr_e",
+-1
+],
+"HGateL": [
+"fpcNm_Obj_MGate_e",
+-1
+],
+"HGateR": [
+"fpcNm_Obj_MGate_e",
+-1
+],
+"H_Saku": [
+"fpcNm_Obj_H_Saku_e",
+-1
+],
+"H_kage": [
+"fpcNm_OBJ_KAGE_e",
+-1
+],
+"Hanjo": [
+"fpcNm_NPC_HANJO_e",
+-1
+],
+"Hata": [
+"fpcNm_Obj_Hata_e",
+-1
+],
+"Henna": [
+"fpcNm_NPC_HENNA_e",
+-1
+],
+"Henna0": [
+"fpcNm_NPC_HENNA0_e",
+-1
+],
+"Hinit": [
+"fpcNm_Tag_Hinit_e",
+-1
+],
+"Hjump": [
+"fpcNm_Tag_Hjump_e",
+-1
+],
+"HoZelda": [
+"fpcNm_HOZELDA_e",
+-1
+],
+"Horse": [
+"fpcNm_HORSE_e",
+-1
+],
+"Hoz": [
+"fpcNm_NPC_HOZ_e",
+-1
+],
+"Hstop": [
+"fpcNm_Tag_Hstop_e",
+-1
+],
+"Huriko1": [
+"fpcNm_Obj_WoodPendulum_e",
+-1
+],
+"HwlWara": [
+"fpcNm_Tag_WaraHowl_e",
+-1
+],
+"Hzelda": [
+"fpcNm_E_HZELDA_e",
+-1
+],
+"IGateL": [
+"fpcNm_Obj_MGate_e",
+-1
+],
+"IGateR": [
+"fpcNm_Obj_MGate_e",
+-1
+],
+"I_Ari": [
+"fpcNm_Obj_Ari_e",
+-1
+],
+"I_Bat": [
+"fpcNm_Obj_Batta_e",
+-1
+],
+"I_Cho": [
+"fpcNm_Obj_Cho_e",
+-1
+],
+"I_Dan": [
+"fpcNm_Obj_Dan_e",
+-1
+],
+"I_Kag": [
+"fpcNm_Obj_Kag_e",
+-1
+],
+"I_Kam": [
+"fpcNm_Obj_Kam_e",
+-1
+],
+"I_Kat": [
+"fpcNm_Obj_Kat_e",
+-1
+],
+"I_Kuw": [
+"fpcNm_Obj_Kuw_e",
+-1
+],
+"I_Nan": [
+"fpcNm_Obj_Nan_e",
+-1
+],
+"I_Ten": [
+"fpcNm_Obj_Ten_e",
+-1
+],
+"I_Tom": [
+"fpcNm_Obj_Tombo_e",
+-1
+],
+"Ice_l": [
+"fpcNm_Obj_Ice_l_e",
+-1
+],
+"Ice_s": [
+"fpcNm_Obj_Ice_s_e",
+-1
+],
+"Ikada": [
+"fpcNm_Obj_Ikada_e",
+-1
+],
+"InoBone": [
+"fpcNm_Obj_InoBone_e",
+-1
+],
+"ItaMato": [
+"fpcNm_OBJ_ITAMATO_e",
+-1
+],
+"IzmGate": [
+"fpcNm_Izumi_Gate_e",
+-1
+],
+"Jagar": [
+"fpcNm_NPC_JAGAR_e",
+-1
+],
+"KBacket": [
+"fpcNm_OBJ_KBACKET_e",
+-1
+],
+"KHdesk": [
+"fpcNm_Obj_BarDesk_e",
+-1
+],
+"KMsg": [
+"fpcNm_TAG_KMSG_e",
+-1
+],
+"KY_chg": [
+"fpcNm_KYTAG06_e",
+-1
+],
+"KY_mk": [
+"fpcNm_KYTAG08_e",
+-1
+],
+"K_Gate": [
+"fpcNm_Obj_KkrGate_e",
+-1
+],
+"Kago": [
+"fpcNm_KAGO_e",
+-1
+],
+"Kaisou": [
+"fpcNm_Obj_Kaisou_e",
+-1
+],
+"Kakashi": [
+"fpcNm_NPC_KAKASHI_e",
+0
+],
+"KbotaC": [
+"fpcNm_Obj_Swpush_e",
+2
+],
+"Kbota_A": [
+"fpcNm_Obj_Swpush_e",
+0
+],
+"Kbota_B": [
+"fpcNm_Obj_Swpush_e",
+1
+],
+"Kdk": [
+"fpcNm_NPC_KDK_e",
+-1
+],
+"Kita": [
+"fpcNm_OBJ_KITA_e",
+-1
+],
+"Kkiba": [
+"fpcNm_Obj_Movebox_e",
+2
+],
+"KkrSmk": [
+"fpcNm_Obj_Smoke_e",
+-1
+],
+"Kkri": [
+"fpcNm_NPC_KKRI_e",
+-1
+],
+"Kn": [
+"fpcNm_NPC_KN_e",
+-1
+],
+"KnBlt": [
+"fpcNm_KN_BULLET_e",
+-1
+],
+"Knj": [
+"fpcNm_NPC_KNJ_e",
+-1
+],
+"Kolin": [
+"fpcNm_NPC_KOLIN_e",
+-1
+],
+"Kolinb": [
+"fpcNm_NPC_KOLINB_e",
+-1
+],
+"Ksw00_C": [
+"fpcNm_Obj_Swpush2_e",
+2
+],
+"Kyury": [
+"fpcNm_NPC_KYURY_e",
+-1
+],
+"L1Bdoor": [
+"fpcNm_L1BOSS_DOOR_e",
+-1
+],
+"L1Mdoor": [
+"fpcNm_L1MBOSS_DOOR_e",
+1
+],
+"L2Bdoor": [
+"fpcNm_L1BOSS_DOOR_e",
+-1
+],
+"L2Mdoor": [
+"fpcNm_L1MBOSS_DOOR_e",
+2
+],
+"L3Bdoor": [
+"fpcNm_Obj_Kshutter_e",
+-1
+],
+"L3Mdoor": [
+"fpcNm_L1MBOSS_DOOR_e",
+3
+],
+"L4Bdoor": [
+"fpcNm_L1BOSS_DOOR_e",
+-1
+],
+"L4Gate": [
+"fpcNm_Obj_Lv4Gate_e",
+-1
+],
+"L4Mdoor": [
+"fpcNm_L1MBOSS_DOOR_e",
+4
+],
+"L4Pgate": [
+"fpcNm_Obj_Lv4PoGate_e",
+-1
+],
+"L4SWall": [
+"fpcNm_Obj_Lv4SlideWall_e",
+-1
+],
+"L4cddTg": [
+"fpcNm_Tag_Lv4CandleDm_e",
+-1
+],
+"L4cdlTg": [
+"fpcNm_Tag_Lv4Candle_e",
+-1
+],
+"L4eShut": [
+"fpcNm_Obj_Lv4EdShutter_e",
+-1
+],
+"L4hmato": [
+"fpcNm_Obj_Lv4HsTarget_e",
+-1
+],
+"L5Bdoor": [
+"fpcNm_L5BOSS_DOOR_e",
+-1
+],
+"L5Mdoor": [
+"fpcNm_L1MBOSS_DOOR_e",
+5
+],
+"L5SwIce": [
+"fpcNm_Obj_Lv5SwIce_e",
+-1
+],
+"L5door": [
+"fpcNm_L1MBOSS_DOOR_e",
+11
+],
+"L6Bdoor": [
+"fpcNm_L1BOSS_DOOR_e",
+-1
+],
+"L6Mdoor": [
+"fpcNm_L1MBOSS_DOOR_e",
+6
+],
+"L7Bdoor": [
+"fpcNm_L1BOSS_DOOR_e",
+-1
+],
+"L7BsGt": [
+"fpcNm_Obj_Lv7BsGate_e",
+-1
+],
+"L7Mdoor": [
+"fpcNm_L1MBOSS_DOOR_e",
+7
+],
+"L7Prop": [
+"fpcNm_Obj_Prop_e",
+-1
+],
+"L7door": [
+"fpcNm_L1MBOSS_DOOR_e",
+10
+],
+"L7lowDr": [
+"fpcNm_L7lowDr_e",
+-1
+],
+"L8Bdoor": [
+"fpcNm_L1BOSS_DOOR_e",
+-1
+],
+"L8LiftX": [
+"fpcNm_Obj_Lv8Lift_e",
+-1
+],
+"L8Mdoor": [
+"fpcNm_L1MBOSS_DOOR_e",
+8
+],
+"L9Bdoor": [
+"fpcNm_L1BOSS_DOOR_e",
+-1
+],
+"L9Chand": [
+"fpcNm_Obj_Chandelier_e",
+-1
+],
+"L9Pictr": [
+"fpcNm_Obj_Picture_e",
+-1
+],
+"L9SwSht": [
+"fpcNm_Obj_Lv9SwShutter_e",
+-1
+],
+"L_RopeB": [
+"fpcNm_Obj_RopeBridge_e",
+-1
+],
+"L_RopeS": [
+"fpcNm_Obj_RopeBridge_e",
+-1
+],
+"Len": [
+"fpcNm_NPC_LEN_e",
+-1
+],
+"Link": [
+"fpcNm_ALINK_e",
+-1
+],
+"Lm": [
+"fpcNm_NPC_FISH_e",
+0
+],
+"Lmask": [
+"fpcNm_KYTAG17_e",
+-1
+],
+"LntnTag": [
+"fpcNm_TAG_LANTERN_e",
+-1
+],
+"Lud": [
+"fpcNm_NPC_LUD_e",
+-1
+],
+"Lv3bota": [
+"fpcNm_Obj_Swpush_e",
+0
+],
+"Lv4blk": [
+"fpcNm_Obj_Movebox_e",
+-1
+],
+"Lv4blk2": [
+"fpcNm_Obj_Movebox_e",
+-1
+],
+"Lv6Gate": [
+"fpcNm_Tag_Lv6Gate_e",
+-1
+],
+"Lv7Gate": [
+"fpcNm_Tag_Lv7Gate_e",
+-1
+],
+"Lv8Gate": [
+"fpcNm_Tag_Lv8Gate_e",
+-1
+],
+"MAD_a": [
+"fpcNm_NPC_CD3_e",
+1
+],
+"MAD_a2": [
+"fpcNm_NPC_CD3_e",
+9
+],
+"MAN_a": [
+"fpcNm_NPC_CD3_e",
+0
+],
+"MAN_a2": [
+"fpcNm_NPC_CD3_e",
+8
+],
+"MAN_b": [
+"fpcNm_NPC_CD3_e",
+4
+],
+"MAN_b2": [
+"fpcNm_NPC_CD3_e",
+12
+],
+"MAN_c": [
+"fpcNm_NPC_CD3_e",
+5
+],
+"MAN_c2": [
+"fpcNm_NPC_CD3_e",
+13
+],
+"MAS_a": [
+"fpcNm_NPC_CD3_e",
+6
+],
+"MAS_a2": [
+"fpcNm_NPC_CD3_e",
+14
+],
+"MAT_a": [
+"fpcNm_NPC_CD3_e",
+18
+],
+"MAT_a2": [
+"fpcNm_NPC_CD3_e",
+25
+],
+"MBN_a": [
+"fpcNm_NPC_CD3_e",
+7
+],
+"MBN_a2": [
+"fpcNm_NPC_CD3_e",
+15
+],
+"MCN_a": [
+"fpcNm_NPC_CD3_e",
+2
+],
+"MCN_a2": [
+"fpcNm_NPC_CD3_e",
+10
+],
+"MON_a": [
+"fpcNm_NPC_CD3_e",
+3
+],
+"MON_a2": [
+"fpcNm_NPC_CD3_e",
+11
+],
+"MR_Chin": [
+"fpcNm_Obj_MirrorChain_e",
+-1
+],
+"MR_Pole": [
+"fpcNm_Obj_Mirror6Pole_e",
+-1
+],
+"MR_Sand": [
+"fpcNm_Obj_MirrorSand_e",
+-1
+],
+"MR_Scrw": [
+"fpcNm_Obj_MirrorScrew_e",
+-1
+],
+"MR_Tble": [
+"fpcNm_Obj_MirrorTable_e",
+-1
+],
+"MYNA": [
+"fpcNm_MYNA_e",
+-1
+],
+"M_hasu": [
+"fpcNm_Obj_MHasu_e",
+-1
+],
+"Maro": [
+"fpcNm_NPC_MARO_e",
+-1
+],
+"Mbrid15": [
+"fpcNm_Obj_RotBridge_e",
+-1
+],
+"Mbrid9": [
+"fpcNm_Obj_RotBridge_e",
+-1
+],
+"Mhint": [
+"fpcNm_Tag_Mhint_e",
+-1
+],
+"Mhsg12": [
+"fpcNm_Obj_Ladder_e",
+2
+],
+"Mhsg15": [
+"fpcNm_Obj_Ladder_e",
+3
+],
+"Mhsg3": [
+"fpcNm_Obj_Ladder_e",
+5
+],
+"Mhsg4h": [
+"fpcNm_Obj_Ladder_e",
+4
+],
+"Mhsg6": [
+"fpcNm_Obj_Ladder_e",
+0
+],
+"Mhsg9": [
+"fpcNm_Obj_Ladder_e",
+1
+],
+"Midna": [
+"fpcNm_MIDNA_e",
+-1
+],
+"Mie": [
+"fpcNm_OBJ_MIE_e",
+-1
+],
+"Mist": [
+"fpcNm_Tag_Mist_e",
+-1
+],
+"Mk": [
+"fpcNm_NPC_MK_e",
+-1
+],
+"Mmsg": [
+"fpcNm_Tag_Mmsg_e",
+-1
+],
+"Moi": [
+"fpcNm_NPC_MOI_e",
+-1
+],
+"MoiR": [
+"fpcNm_NPC_MOIR_e",
+-1
+],
+"Mstop": [
+"fpcNm_Tag_Mstop_e",
+-1
+],
+"MstopE": [
+"fpcNm_Tag_Mstop_e",
+-1
+],
+"Mwait": [
+"fpcNm_Tag_Mwait_e",
+-1
+],
+"NPC_TK": [
+"fpcNm_NPC_TK_e",
+-1
+],
+"Nagaisu": [
+"fpcNm_Obj_Nagaisu_e",
+-1
+],
+"Nbomb": [
+"fpcNm_NBOMB_e",
+-1
+],
+"Ni": [
+"fpcNm_NI_e",
+-1
+],
+"NoneCam": [
+"fpcNm_CAMERA_e",
+-1
+],
+"NormCam": [
+"fpcNm_CAMERA_e",
+-1
+],
+"Nougu": [
+"fpcNm_OBJ_NOUGU_e",
+-1
+],
+"NpcChat": [
+"fpcNm_NPC_CHAT_e",
+-1
+],
+"Npc_du": [
+"fpcNm_NPC_DU_e",
+0
+],
+"Npc_ks": [
+"fpcNm_NPC_KS_e",
+-1
+],
+"Npc_lf": [
+"fpcNm_NPC_LF_e",
+-1
+],
+"Npc_ne": [
+"fpcNm_NPC_NE_e",
+-1
+],
+"Npc_tr": [
+"fpcNm_NPC_TR_e",
+-1
+],
+"O_Flag": [
+"fpcNm_Obj_Flag_e",
+-1
+],
+"O_Flag2": [
+"fpcNm_Obj_Flag2_e",
+-1
+],
+"O_Flag3": [
+"fpcNm_Obj_Flag3_e",
+-1
+],
+"O_Mato": [
+"fpcNm_Obj_Mato_e",
+-1
+],
+"ObjHasi": [
+"fpcNm_Obj_HHASHI_e",
+-1
+],
+"ObjTime": [
+"fpcNm_Obj_Timer_e",
+-1
+],
+"ObjTks": [
+"fpcNm_OBJ_TKS_e",
+-1
+],
+"Obj_Ita": [
+"fpcNm_Obj_ITA_e",
+-1
+],
+"Obj_Lrp": [
+"fpcNm_Obj_LndRope_e",
+-1
+],
+"Obj_Sit": [
+"fpcNm_Obj_ItaRope_e",
+-1
+],
+"Obj_Tbi": [
+"fpcNm_Obj_Yobikusa_e",
+0
+],
+"Obj_Tie": [
+"fpcNm_Obj_OnCloth_e",
+-1
+],
+"Obj_Uma": [
+"fpcNm_Obj_Yobikusa_e",
+1
+],
+"Obj_ava": [
+"fpcNm_Obj_Avalanche_e",
+-1
+],
+"Obj_bal": [
+"fpcNm_OBJ_BALLOON_e",
+-1
+],
+"Obj_bm": [
+"fpcNm_Obj_Bemos_e",
+-1
+],
+"Obj_brg": [
+"fpcNm_OBJ_BRG_e",
+-1
+],
+"Obj_cb": [
+"fpcNm_OBJ_CB_e",
+-1
+],
+"Obj_fd": [
+"fpcNm_OBJ_FOOD_e",
+-1
+],
+"Obj_fm": [
+"fpcNm_OBJ_FMOBJ_e",
+-1
+],
+"Obj_fw": [
+"fpcNm_OBJ_FW_e",
+-1
+],
+"Obj_gb": [
+"fpcNm_OBJ_GB_e",
+-1
+],
+"Obj_gm": [
+"fpcNm_OBJ_GM_e",
+-1
+],
+"Obj_grA": [
+"fpcNm_OBJ_GRA_e",
+-1
+],
+"Obj_hb": [
+"fpcNm_OBJ_HB_e",
+-1
+],
+"Obj_ih": [
+"fpcNm_OBJ_IHASI_e",
+-1
+],
+"Obj_kb": [
+"fpcNm_OBJ_KBOX_e",
+-1
+],
+"Obj_key": [
+"fpcNm_OBJ_KEY_e",
+-1
+],
+"Obj_kg": [
+"fpcNm_OBJ_KAGO_e",
+-1
+],
+"Obj_ki": [
+"fpcNm_OBJ_KI_e",
+-1
+],
+"Obj_kn2": [
+"fpcNm_OBJ_KANBAN2_e",
+-1
+],
+"Obj_knk": [
+"fpcNm_Obj_KazeNeko_e",
+-1
+],
+"Obj_kyh": [
+"fpcNm_OBJ_KEYHOLE_e",
+-1
+],
+"Obj_lb": [
+"fpcNm_OBJ_LBOX_e",
+-1
+],
+"Obj_lp": [
+"fpcNm_OBJ_LP_e",
+-1
+],
+"Obj_mak": [
+"fpcNm_OBJ_MAKI_e",
+-1
+],
+"Obj_ms": [
+"fpcNm_OBJ_MSIMA_e",
+-1
+],
+"Obj_nd": [
+"fpcNm_OBJ_NDOOR_e",
+-1
+],
+"Obj_nmp": [
+"fpcNm_Obj_NamePlate_e",
+-1
+],
+"Obj_rw": [
+"fpcNm_OBJ_RW_e",
+-1
+],
+"Obj_so": [
+"fpcNm_OBJ_SO_e",
+-1
+],
+"Obj_sui": [
+"fpcNm_OBJ_SUISYA_e",
+-1
+],
+"Obj_sw": [
+"fpcNm_OBJ_SW_e",
+-1
+],
+"Obj_tby": [
+"fpcNm_OBJ_TOBY_e",
+-1
+],
+"Obj_tp": [
+"fpcNm_OBJ_TP_e",
+-1
+],
+"Obj_ud": [
+"fpcNm_OBJ_UDOOR_e",
+-1
+],
+"Obj_us": [
+"fpcNm_OBJ_USAKU_e",
+-1
+],
+"Obj_w0": [
+"fpcNm_OBJ_WEB0_e",
+-1
+],
+"Obj_w1": [
+"fpcNm_OBJ_WEB1_e",
+-1
+],
+"OcHashi": [
+"fpcNm_OCTHASHI_e",
+-1
+],
+"OilTubo": [
+"fpcNm_OBJ_OILTUBO_e",
+-1
+],
+"OnKago": [
+"fpcNm_OBJ_KAGO_e",
+1
+],
+"Onsen": [
+"fpcNm_Obj_Onsen_e",
+-1
+],
+"P2a": [
+"fpcNm_NPC_P2_e",
+0
+],
+"P2b": [
+"fpcNm_NPC_P2_e",
+1
+],
+"P2c": [
+"fpcNm_NPC_P2_e",
+2
+],
+"PA_Besu": [
+"fpcNm_NPC_PACHI_BESU_e",
+-1
+],
+"PA_Maro": [
+"fpcNm_NPC_PACHI_MARO_e",
+-1
+],
+"PA_Taro": [
+"fpcNm_NPC_PACHI_TARO_e",
+-1
+],
+"PDtile": [
+"fpcNm_Obj_PDtile_e",
+-1
+],
+"PDwall": [
+"fpcNm_Obj_PDwall_e",
+-1
+],
+"PPHole": [
+"fpcNm_KYTAG05_e",
+-1
+],
+"PPolamp": [
+"fpcNm_PPolamp_e",
+-1
+],
+"PRElvtr": [
+"fpcNm_Obj_PRElvtr_e",
+-1
+],
+"P_Rwall": [
+"fpcNm_Obj_Lv4PRwall_e",
+-1
+],
+"P_Warp": [
+"fpcNm_Obj_BossWarp_e",
+-1
+],
+"Passer": [
+"fpcNm_NPC_PASSER_e",
+-1
+],
+"Passer2": [
+"fpcNm_NPC_PASSER2_e",
+-1
+],
+"Peru": [
+"fpcNm_PERU_e",
+-1
+],
+"Pikari": [
+"fpcNm_KYTAG16_e",
+-1
+],
+"Pleaf": [
+"fpcNm_OBJ_PLEAF_e",
+-1
+],
+"Plight": [
+"fpcNm_KYTAG07_e",
+-1
+],
+"Post": [
+"fpcNm_NPC_POST_e",
+-1
+],
+"Pouya": [
+"fpcNm_NPC_POUYA_e",
+-1
+],
+"Pumpkin": [
+"fpcNm_OBJ_PUMPKIN_e",
+-1
+],
+"Push": [
+"fpcNm_TAG_PUSH_e",
+-1
+],
+"Qs": [
+"fpcNm_TAG_QS_e",
+-1
+],
+"R50Sand": [
+"fpcNm_Obj_Lv4Sand_e",
+-1
+],
+"RCircle": [
+"fpcNm_Obj_RCircle_e",
+-1
+],
+"RMback0": [
+"fpcNm_Tag_Restart_e",
+-1
+],
+"RMback1": [
+"fpcNm_Tag_ChgRestart_e",
+-1
+],
+"R_Gate": [
+"fpcNm_Obj_RiderGate_e",
+-1
+],
+"Raca": [
+"fpcNm_NPC_RACA_e",
+-1
+],
+"Rafrel": [
+"fpcNm_NPC_RAFREL_e",
+-1
+],
+"RetTag": [
+"fpcNm_Tag_RetRoom_e",
+-1
+],
+"RmbitSw": [
+"fpcNm_Tag_RmbitSw_e",
+-1
+],
+"Roten": [
+"fpcNm_OBJ_ROTEN_e",
+-1
+],
+"RvRock": [
+"fpcNm_Obj_RIVERROCK_e",
+-1
+],
+"SCanCrs": [
+"fpcNm_Obj_SCannonCrs_e",
+-1
+],
+"SCanTen": [
+"fpcNm_Obj_SCannonTen_e",
+-1
+],
+"SCannon": [
+"fpcNm_Obj_SCannon_e",
+-1
+],
+"SMTile": [
+"fpcNm_OBJ_SMTILE_e",
+-1
+],
+"SSDRINK": [
+"fpcNm_OBJ_SSDRINK_e",
+-1
+],
+"SSITEM": [
+"fpcNm_OBJ_SSITEM_e",
+-1
+],
+"STDoa": [
+"fpcNm_Obj_ZDoor_e",
+-1
+],
+"Saru": [
+"fpcNm_NPC_SARU_e",
+-1
+],
+"Savmem": [
+"fpcNm_KYTAG14_e",
+-1
+],
+"Seira": [
+"fpcNm_NPC_SEIRA_e",
+-1
+],
+"Seira2": [
+"fpcNm_NPC_SERA2_e",
+-1
+],
+"Seirei": [
+"fpcNm_NPC_SEIREI_e",
+-1
+],
+"Sekizo": [
+"fpcNm_OBJ_SEKIZO_e",
+-1
+],
+"Sekizoa": [
+"fpcNm_OBJ_SEKIZOA_e",
+0
+],
+"Sekizob": [
+"fpcNm_OBJ_SEKIZOA_e",
+1
+],
+"Sha": [
+"fpcNm_NPC_SHAMAN_e",
+-1
+],
+"Shad": [
+"fpcNm_NPC_SHAD_e",
+-1
+],
+"Shop0": [
+"fpcNm_NPC_SHOP0_e",
+-1
+],
+"ShopItm": [
+"fpcNm_ShopItem_e",
+-1
+],
+"SkDoor": [
+"fpcNm_OBJ_SEKIDOOR_e",
+-1
+],
+"SmkEmt": [
+"fpcNm_Tag_SmkEmt_e",
+-1
+],
+"SnwSoup": [
+"fpcNm_Obj_SnowSoup_e",
+-1
+],
+"Sparks": [
+"fpcNm_KYTAG10_e",
+-1
+],
+"Spinner": [
+"fpcNm_SPINNER_e",
+-1
+],
+"Sppath": [
+"fpcNm_Tag_Sppath_e",
+-1
+],
+"Sq": [
+"fpcNm_SQ_e",
+-1
+],
+"StAndGl": [
+"fpcNm_START_AND_GOAL_e",
+-1
+],
+"Stick": [
+"fpcNm_OBJ_STICK_e",
+-1
+],
+"Stream": [
+"fpcNm_Tag_Stream_e",
+-1
+],
+"SwAreaC": [
+"fpcNm_SWC00_e",
+-1
+],
+"SwAreaS": [
+"fpcNm_SWC00_e",
+-1
+],
+"SwBall": [
+"fpcNm_SwBall_e",
+-1
+],
+"SwBoom": [
+"fpcNm_Obj_Swpropeller_e",
+-1
+],
+"SwLBall": [
+"fpcNm_SwLBall_e",
+-1
+],
+"Swboom": [
+"fpcNm_Obj_Swpropeller_e",
+-1
+],
+"Swpush": [
+"fpcNm_Obj_Swpush_e",
+0
+],
+"TCdlst": [
+"fpcNm_Obj_TvCdlst_e",
+-1
+],
+"TGDRINK": [
+"fpcNm_TAG_SSDRINK_e",
+-1
+],
+"TGMNLIG": [
+"fpcNm_TAG_MNLIGHT_e",
+-1
+],
+"TGSPCAM": [
+"fpcNm_TAG_SHOPCAM_e",
+-1
+],
+"TGSPITM": [
+"fpcNm_TAG_SHOPITM_e",
+-1
+],
+"TLogo": [
+"fpcNm_TITLE_e",
+-1
+],
+"T_Maki": [
+"fpcNm_Obj_ToaruMaki_e",
+-1
+],
+"Table": [
+"fpcNm_Obj_Table_e",
+-1
+],
+"TagAsst": [
+"fpcNm_Tag_Assist_e",
+-1
+],
+"TagAtt": [
+"fpcNm_Tag_Attp_e",
+-1
+],
+"TagCsw": [
+"fpcNm_TAG_CSW_e",
+-1
+],
+"TagCswO": [
+"fpcNm_TAG_CSW_e",
+-1
+],
+"TagEsc": [
+"fpcNm_Tag_Escape_e",
+-1
+],
+"TagEv": [
+"fpcNm_TAG_EVENT_e",
+-1
+],
+"TagEvC": [
+"fpcNm_TAG_EVENT_e",
+-1
+],
+"TagEvt": [
+"fpcNm_TAG_EVT_e",
+0
+],
+"TagEvt1": [
+"fpcNm_TAG_EVT_e",
+1
+],
+"TagFall": [
+"fpcNm_Tag_WaterFall_e",
+-1
+],
+"TagGe": [
+"fpcNm_Tag_WatchGe_e",
+-1
+],
+"TagHowl": [
+"fpcNm_TAG_HOWL_e",
+1
+],
+"TagInst": [
+"fpcNm_Tag_Instruction_e",
+-1
+],
+"TagLite": [
+"fpcNm_Tag_LightBall_e",
+-1
+],
+"TagMag": [
+"fpcNm_Tag_Magne_e",
+-1
+],
+"TagPati": [
+"fpcNm_TAG_PATI_e",
+-1
+],
+"TagSch": [
+"fpcNm_Tag_Schedule_e",
+-1
+],
+"TagSpin": [
+"fpcNm_Tag_Spinner_e",
+-1
+],
+"TagStat": [
+"fpcNm_Tag_Statue_e",
+-1
+],
+"TagTrnd": [
+"fpcNm_Obj_Tornado2_e",
+-1
+],
+"TagYami": [
+"fpcNm_TAG_YAMI_e",
+-1
+],
+"Tag_Btl": [
+"fpcNm_TAG_BTLITM_e",
+-1
+],
+"Tag_grA": [
+"fpcNm_TAG_GRA_e",
+-1
+],
+"Tag_ms": [
+"fpcNm_TAG_MSG_e",
+0
+],
+"Tansu": [
+"fpcNm_Obj_Chest_e",
+-1
+],
+"Taro": [
+"fpcNm_NPC_TARO_e",
+-1
+],
+"Tcntrl": [
+"fpcNm_KYTAG11_e",
+-1
+],
+"Teloper": [
+"fpcNm_TAG_TELOP_e",
+-1
+],
+"Tenbin": [
+"fpcNm_Obj_Lv6Tenbin_e",
+-1
+],
+"Tetd": [
+"fpcNm_DSHUTTER_e",
+-1
+],
+"TgArena": [
+"fpcNm_Tag_Arena_e",
+-1
+],
+"TgGuard": [
+"fpcNm_TAG_GUARD_e",
+-1
+],
+"TgTGate": [
+"fpcNm_Tag_TWGate_e",
+-1
+],
+"TgTHint": [
+"fpcNm_Tag_TheBHint_e",
+-1
+],
+"Thashi": [
+"fpcNm_Obj_THASHI_e",
+-1
+],
+"The": [
+"fpcNm_NPC_THE_e",
+-1
+],
+"TheB": [
+"fpcNm_NPC_THEB_e",
+-1
+],
+"Tkc": [
+"fpcNm_NPC_TKC_e",
+-1
+],
+"Tkj": [
+"fpcNm_NPC_TKJ_e",
+-1
+],
+"Tkj2": [
+"fpcNm_NPC_TKJ2_e",
+-1
+],
+"Tks": [
+"fpcNm_NPC_TKS_e",
+-1
+],
+"Toby": [
+"fpcNm_NPC_TOBY_e",
+-1
+],
+"Tr": [
+"fpcNm_NPC_FISH_e",
+5
+],
+"TreeSh": [
+"fpcNm_TREESH_e",
+-1
+],
+"Turara": [
+"fpcNm_Obj_Turara_e",
+-1
+],
+"UHDoor": [
+"fpcNm_Obj_Cowdoor_e",
+-1
+],
+"Uri": [
+"fpcNm_NPC_URI_e",
+-1
+],
+"VolBall": [
+"fpcNm_Obj_VolcanicBall_e",
+-1
+],
+"VolBom": [
+"fpcNm_Obj_VolcanicBall_e",
+-1
+],
+"VolcGnd": [
+"fpcNm_Obj_VolcGnd_e",
+-1
+],
+"Vrbox": [
+"fpcNm_VRBOX_e",
+-1
+],
+"Vrbox2": [
+"fpcNm_VRBOX2_e",
+-1
+],
+"WAD_a": [
+"fpcNm_NPC_CD3_e",
+17
+],
+"WAD_a2": [
+"fpcNm_NPC_CD3_e",
+24
+],
+"WAN_a": [
+"fpcNm_NPC_CD3_e",
+16
+],
+"WAN_a2": [
+"fpcNm_NPC_CD3_e",
+23
+],
+"WAN_b": [
+"fpcNm_NPC_CD3_e",
+22
+],
+"WAN_b2": [
+"fpcNm_NPC_CD3_e",
+29
+],
+"WCN_a": [
+"fpcNm_NPC_CD3_e",
+19
+],
+"WCN_a2": [
+"fpcNm_NPC_CD3_e",
+26
+],
+"WC_tag": [
+"fpcNm_KYTAG01_e",
+2
+],
+"WGN_a": [
+"fpcNm_NPC_CD3_e",
+21
+],
+"WGN_a2": [
+"fpcNm_NPC_CD3_e",
+28
+],
+"WON_a": [
+"fpcNm_NPC_CD3_e",
+20
+],
+"WON_a2": [
+"fpcNm_NPC_CD3_e",
+27
+],
+"WStoneF": [
+"fpcNm_Obj_SmWStone_e",
+-1
+],
+"WarpB2": [
+"fpcNm_Obj_KakarikoBrg_e",
+-1
+],
+"WarpBrg": [
+"fpcNm_Obj_KakarikoBrg_e",
+-1
+],
+"WarpOB1": [
+"fpcNm_Obj_OrdinBrg_e",
+0
+],
+"WarpOB2": [
+"fpcNm_Obj_OrdinBrg_e",
+1
+],
+"Water00": [
+"fpcNm_GRDWATER_e",
+-1
+],
+"Wchain": [
+"fpcNm_Obj_Wchain_e",
+-1
+],
+"WdStone": [
+"fpcNm_Obj_WindStone_e",
+-1
+],
+"Wljump": [
+"fpcNm_Tag_Wljump_e",
+-1
+],
+"Worm": [
+"fpcNm_NPC_WORM_e",
+-1
+],
+"YBag": [
+"fpcNm_OBJ_YBAG_e",
+-1
+],
+"Ychndlr": [
+"fpcNm_Obj_Ychndlr_e",
+-1
+],
+"Yelia": [
+"fpcNm_NPC_YELIA_e",
+-1
+],
+"YkgrOFF": [
+"fpcNm_Ykgr_e",
+-1
+],
+"YkgrON": [
+"fpcNm_Ykgr_e",
+-1
+],
+"Yousei": [
+"fpcNm_Obj_Yousei_e",
+-1
+],
+"Ytaihou": [
+"fpcNm_Obj_Ytaihou_e",
+-1
+],
+"Zant": [
+"fpcNm_NPC_ZANT_e",
+-1
+],
+"ZelR": [
+"fpcNm_NPC_ZELR_e",
+-1
+],
+"ZelRo": [
+"fpcNm_NPC_ZELRO_e",
+-1
+],
+"Zelda": [
+"fpcNm_NPC_ZELDA_e",
+-1
+],
+"Zshake": [
+"fpcNm_KYTAG15_e",
+-1
+],
+"altar": [
+"fpcNm_Obj_Saidan_e",
+-1
+],
+"amiShut": [
+"fpcNm_Obj_AmiShutter_e",
+-1
+],
+"atkItem": [
+"fpcNm_Tag_AttackItem_e",
+-1
+],
+"awaPlar": [
+"fpcNm_Obj_awaPlar_e",
+-1
+],
+"ball1": [
+"fpcNm_Obj_Carry_e",
+-1
+],
+"ball2": [
+"fpcNm_Obj_Carry_e",
+-1
+],
+"ball3": [
+"fpcNm_Obj_Carry_e",
+-1
+],
+"ballSw": [
+"fpcNm_Obj_SwBallA_e",
+-1
+],
+"bbox": [
+"fpcNm_Obj_BBox_e",
+-1
+],
+"bdoor": [
+"fpcNm_BOSS_DOOR_e",
+-1
+],
+"bigdoor": [
+"fpcNm_DOOR20_e",
+-1
+],
+"bmWin": [
+"fpcNm_Obj_BmWindow_e",
+-1
+],
+"bonbori": [
+"fpcNm_EP_e",
+-1
+],
+"bsGate": [
+"fpcNm_Obj_BsGate_e",
+-1
+],
+"bura7A": [
+"fpcNm_Obj_SwHang_e",
+0
+],
+"bura7B": [
+"fpcNm_Obj_SwHang_e",
+0
+],
+"bura7C": [
+"fpcNm_Obj_SwHang_e",
+0
+],
+"bura7D": [
+"fpcNm_Obj_SwHang_e",
+0
+],
+"bura7E": [
+"fpcNm_Obj_SwHang_e",
+0
+],
+"buraA": [
+"fpcNm_Obj_SwHang_e",
+0
+],
+"buraA2": [
+"fpcNm_Obj_SwHang_e",
+0
+],
+"buraB": [
+"fpcNm_Obj_SwHang_e",
+0
+],
+"buraB2": [
+"fpcNm_Obj_SwHang_e",
+0
+],
+"burnBox": [
+"fpcNm_Obj_BurnBox_e",
+-1
+],
+"candlL2": [
+"fpcNm_Obj_Lv2Candle_e",
+-1
+],
+"candlL3": [
+"fpcNm_Obj_Lv3Candle_e",
+-1
+],
+"carry00": [
+"fpcNm_Obj_Carry_e",
+-1
+],
+"carry01": [
+"fpcNm_Obj_Carry_e",
+-1
+],
+"carry02": [
+"fpcNm_Obj_Carry_e",
+-1
+],
+"carry04": [
+"fpcNm_Obj_Carry_e",
+-1
+],
+"carry05": [
+"fpcNm_Obj_Carry_e",
+-1
+],
+"carry06": [
+"fpcNm_Obj_Carry_e",
+-1
+],
+"carry07": [
+"fpcNm_Obj_Carry_e",
+-1
+],
+"carry08": [
+"fpcNm_Obj_Carry_e",
+-1
+],
+"carry09": [
+"fpcNm_Obj_Carry_e",
+-1
+],
+"carry12": [
+"fpcNm_Obj_Carry_e",
+-1
+],
+"carry13": [
+"fpcNm_Obj_Carry_e",
+-1
+],
+"chainSw": [
+"fpcNm_Obj_SwChain_e",
+-1
+],
+"chin": [
+"fpcNm_NPC_CHIN_e",
+-1
+],
+"chtSolA": [
+"fpcNm_NPC_SOLDIERa_e",
+-1
+],
+"chtSolB": [
+"fpcNm_NPC_SOLDIERb_e",
+-1
+],
+"clerkA": [
+"fpcNm_NPC_CLERKA_e",
+0
+],
+"clerkB": [
+"fpcNm_NPC_CLERKB_e",
+0
+],
+"clerkT": [
+"fpcNm_NPC_CLERKT_e",
+0
+],
+"crystal": [
+"fpcNm_Obj_Crystal_e",
+-1
+],
+"cstaSw": [
+"fpcNm_Tag_CstaSw_e",
+-1
+],
+"cylwind": [
+"fpcNm_Obj_Tornado_e",
+-1
+],
+"d_act": [
+"fpcNm_DEMO00_e",
+-1
+],
+"d_act0": [
+"fpcNm_DEMO00_e",
+0
+],
+"d_act1": [
+"fpcNm_DEMO00_e",
+1
+],
+"d_act10": [
+"fpcNm_DEMO00_e",
+10
+],
+"d_act11": [
+"fpcNm_DEMO00_e",
+11
+],
+"d_act12": [
+"fpcNm_DEMO00_e",
+12
+],
+"d_act13": [
+"fpcNm_DEMO00_e",
+13
+],
+"d_act14": [
+"fpcNm_DEMO00_e",
+14
+],
+"d_act15": [
+"fpcNm_DEMO00_e",
+15
+],
+"d_act16": [
+"fpcNm_DEMO00_e",
+16
+],
+"d_act17": [
+"fpcNm_DEMO00_e",
+17
+],
+"d_act18": [
+"fpcNm_DEMO00_e",
+18
+],
+"d_act19": [
+"fpcNm_DEMO00_e",
+19
+],
+"d_act2": [
+"fpcNm_DEMO00_e",
+2
+],
+"d_act20": [
+"fpcNm_DEMO00_e",
+20
+],
+"d_act21": [
+"fpcNm_DEMO00_e",
+21
+],
+"d_act22": [
+"fpcNm_DEMO00_e",
+22
+],
+"d_act23": [
+"fpcNm_DEMO00_e",
+23
+],
+"d_act24": [
+"fpcNm_DEMO00_e",
+24
+],
+"d_act25": [
+"fpcNm_DEMO00_e",
+25
+],
+"d_act26": [
+"fpcNm_DEMO00_e",
+26
+],
+"d_act27": [
+"fpcNm_DEMO00_e",
+27
+],
+"d_act28": [
+"fpcNm_DEMO00_e",
+28
+],
+"d_act29": [
+"fpcNm_DEMO00_e",
+29
+],
+"d_act3": [
+"fpcNm_DEMO00_e",
+3
+],
+"d_act30": [
+"fpcNm_DEMO00_e",
+30
+],
+"d_act31": [
+"fpcNm_DEMO00_e",
+31
+],
+"d_act4": [
+"fpcNm_DEMO00_e",
+4
+],
+"d_act5": [
+"fpcNm_DEMO00_e",
+5
+],
+"d_act6": [
+"fpcNm_DEMO00_e",
+6
+],
+"d_act7": [
+"fpcNm_DEMO00_e",
+7
+],
+"d_act8": [
+"fpcNm_DEMO00_e",
+8
+],
+"d_act9": [
+"fpcNm_DEMO00_e",
+9
+],
+"damCps": [
+"fpcNm_Obj_DamCps_e",
+-1
+],
+"ddoor": [
+"fpcNm_DBDOOR_e",
+-1
+],
+"digsand": [
+"fpcNm_Obj_Lv4DigSand_e",
+-1
+],
+"digsnow": [
+"fpcNm_Obj_DigSnow_e",
+-1
+],
+"dmblk": [
+"fpcNm_Obj_Movebox_e",
+0
+],
+"dmele": [
+"fpcNm_Obj_Elevator_e",
+-1
+],
+"door": [
+"fpcNm_DOOR20_e",
+-1
+],
+"dr": [
+"fpcNm_DR_e",
+-1
+],
+"dstop": [
+"fpcNm_Obj_Stopper2_e",
+-1
+],
+"fallobj": [
+"fpcNm_Obj_FallObj_e",
+-1
+],
+"fan": [
+"fpcNm_Obj_Fan_e",
+-1
+],
+"fence": [
+"fpcNm_DSHUTTER_e",
+-1
+],
+"fireWd": [
+"fpcNm_Obj_FireWood_e",
+-1
+],
+"fireWd2": [
+"fpcNm_Obj_FireWood2_e",
+-1
+],
+"flower": [
+"fpcNm_GRASS_e",
+-1
+],
+"flwr17": [
+"fpcNm_GRASS_e",
+-1
+],
+"flwr7": [
+"fpcNm_GRASS_e",
+-1
+],
+"fmtion": [
+"fpcNm_FORMATION_MNG_e",
+0
+],
+"fmtionL": [
+"fpcNm_FORMATION_MNG_e",
+1
+],
+"fpillar": [
+"fpcNm_Obj_FirePillar_e",
+-1
+],
+"geyser": [
+"fpcNm_Obj_Geyser_e",
+-1
+],
+"glwSph": [
+"fpcNm_Obj_glowSphere_e",
+-1
+],
+"goGate": [
+"fpcNm_Obj_GoGate_e",
+-1
+],
+"gpTaru": [
+"fpcNm_Obj_GpTaru_e",
+-1
+],
+"grA": [
+"fpcNm_NPC_GRA_e",
+-1
+],
+"grARock": [
+"fpcNm_Obj_GraRock_e",
+-1
+],
+"grC": [
+"fpcNm_NPC_GRC_e",
+-1
+],
+"grD": [
+"fpcNm_NPC_WRESTLER_e",
+1
+],
+"grD1": [
+"fpcNm_NPC_GRD_e",
+-1
+],
+"grM": [
+"fpcNm_NPC_GRM_e",
+-1
+],
+"grMC": [
+"fpcNm_NPC_GRMC_e",
+-1
+],
+"grO": [
+"fpcNm_NPC_GRO_e",
+-1
+],
+"grR": [
+"fpcNm_NPC_GRR_e",
+-1
+],
+"grS": [
+"fpcNm_NPC_GRS_e",
+-1
+],
+"grZ": [
+"fpcNm_NPC_GRZ_e",
+-1
+],
+"grZRock": [
+"fpcNm_Obj_GrzRock_e",
+-1
+],
+"gstone": [
+"fpcNm_Obj_Movebox_e",
+-1
+],
+"guard": [
+"fpcNm_GUARD_MNG_e",
+-1
+],
+"gwall": [
+"fpcNm_Obj_GanonWall_e",
+-1
+],
+"gwall2": [
+"fpcNm_Obj_GanonWall2_e",
+-1
+],
+"haihai": [
+"fpcNm_Obj_Hfuta_e",
+-1
+],
+"hasi00": [
+"fpcNm_Obj_Pillar_e",
+-1
+],
+"hasi01": [
+"fpcNm_Obj_Pillar_e",
+-1
+],
+"hbmbkoy": [
+"fpcNm_Obj_HBombkoya_e",
+-1
+],
+"hider": [
+"fpcNm_SUSPEND_e",
+-1
+],
+"hsMato": [
+"fpcNm_Obj_HsTarget_e",
+-1
+],
+"hswitch": [
+"fpcNm_Obj_HeavySw_e",
+-1
+],
+"htCase": [
+"fpcNm_Obj_LifeContainer_e",
+-1
+],
+"htPiece": [
+"fpcNm_Obj_LifeContainer_e",
+-1
+],
+"hvySw": [
+"fpcNm_Obj_Swpush5_e",
+0
+],
+"iceblk": [
+"fpcNm_Obj_IceBlock_e",
+-1
+],
+"iceleaf": [
+"fpcNm_Obj_IceLeaf_e",
+0
+],
+"impal": [
+"fpcNm_NPC_IMPAL_e",
+-1
+],
+"ins": [
+"fpcNm_NPC_INS_e",
+-1
+],
+"ironbox": [
+"fpcNm_Obj_MetalBox_e",
+-1
+],
+"item": [
+"fpcNm_ITEM_e",
+-1
+],
+"itemKey": [
+"fpcNm_Obj_SmallKey_e",
+-1
+],
+"izora": [
+"fpcNm_Obj_ZoraCloth_e",
+-1
+],
+"kab_o": [
+"fpcNm_Obj_Kabuto_e",
+-1
+],
+"kagoFal": [
+"fpcNm_Tag_KagoFall_e",
+-1
+],
+"kantera": [
+"fpcNm_Obj_Kantera_e",
+-1
+],
+"kdoor": [
+"fpcNm_KNOB20_e",
+-1
+],
+"kjgjs": [
+"fpcNm_Obj_KJgjs_e",
+-1
+],
+"kjs": [
+"fpcNm_Obj_KJgjs_e",
+-1
+],
+"kkanban": [
+"fpcNm_Obj_KKanban_e",
+-1
+],
+"kkiTrap": [
+"fpcNm_Obj_Lv8KekkaiTrap_e",
+-1
+],
+"klift00": [
+"fpcNm_Obj_KLift00_e",
+-1
+],
+"km_Hana": [
+"fpcNm_NPC_KASIHANA_e",
+-1
+],
+"km_Kyu": [
+"fpcNm_NPC_KASIKYU_e",
+-1
+],
+"km_Mich": [
+"fpcNm_NPC_KASIMICH_e",
+-1
+],
+"kpot": [
+"fpcNm_Obj_KiPot_e",
+-1
+],
+"kshtr00": [
+"fpcNm_Obj_Kshutter_e",
+-1
+],
+"ktFire": [
+"fpcNm_Tag_KtOnFire_e",
+-1
+],
+"kusax1": [
+"fpcNm_GRASS_e",
+-1
+],
+"kusax21": [
+"fpcNm_GRASS_e",
+-1
+],
+"kusax7": [
+"fpcNm_GRASS_e",
+-1
+],
+"kwhel00": [
+"fpcNm_Obj_KWheel00_e",
+-1
+],
+"kwhel01": [
+"fpcNm_Obj_KWheel01_e",
+-1
+],
+"ky_tag0": [
+"fpcNm_KYTAG00_e",
+-1
+],
+"ky_tag1": [
+"fpcNm_KYTAG01_e",
+0
+],
+"ky_tag2": [
+"fpcNm_KYTAG02_e",
+-1
+],
+"ky_tag3": [
+"fpcNm_KYTAG01_e",
+1
+],
+"kytag3": [
+"fpcNm_KYTAG03_e",
+-1
+],
+"l2bmtag": [
+"fpcNm_Tag_Lv2PrChk_e",
+-1
+],
+"l3wat02": [
+"fpcNm_Obj_Lv3Water2_e",
+-1
+],
+"l3watB": [
+"fpcNm_OBJ_LV3WATERB_e",
+-1
+],
+"l3water": [
+"fpcNm_Obj_Lv3Water_e",
+-1
+],
+"l4brg": [
+"fpcNm_Obj_Lv4Bridge_e",
+-1
+],
+"l4chand": [
+"fpcNm_Obj_Lv4Chan_e",
+-1
+],
+"l4floor": [
+"fpcNm_Obj_Lv4Floor_e",
+-1
+],
+"l5hYuka": [
+"fpcNm_Obj_Lv5FBoard_e",
+-1
+],
+"l5icewl": [
+"fpcNm_Obj_IceWall_e",
+-1
+],
+"l6ChBlk": [
+"fpcNm_Obj_Lv6ChgGate_e",
+-1
+],
+"l6FuriT": [
+"fpcNm_Obj_Lv6FuriTrap_e",
+-1
+],
+"l6Lblk": [
+"fpcNm_Obj_Lv6Lblock_e",
+-1
+],
+"l6SwGt": [
+"fpcNm_Obj_Lv6SwGate_e",
+-1
+],
+"l6TogeT": [
+"fpcNm_Obj_Lv6TogeTrap_e",
+-1
+],
+"l6cstSw": [
+"fpcNm_Tag_Lv6CstaSw_e",
+-1
+],
+"l6egate": [
+"fpcNm_Obj_Lv6EGate_e",
+-1
+],
+"l6eleva": [
+"fpcNm_Obj_Lv6ElevtA_e",
+-1
+],
+"l6swtrn": [
+"fpcNm_Obj_Lv6SwTurn_e",
+-1
+],
+"l7brg": [
+"fpcNm_Obj_Lv7Bridge_e",
+-1
+],
+"l7door": [
+"fpcNm_DOOR20_e",
+-1
+],
+"l8warp": [
+"fpcNm_Obj_BossWarp_e",
+-1
+],
+"l9door": [
+"fpcNm_DOOR20_e",
+-1
+],
+"lballSw": [
+"fpcNm_Obj_SwBallB_e",
+-1
+],
+"lbsw": [
+"fpcNm_Obj_SwBallC_e",
+-1
+],
+"lv5soup": [
+"fpcNm_TAG_LV5SOUP_e",
+-1
+],
+"lv6bm": [
+"fpcNm_Obj_Lv6bemos_e",
+-1
+],
+"lv7saku": [
+"fpcNm_DSHUTTER_e",
+-1
+],
+"magLifR": [
+"fpcNm_Obj_MagLiftRot_e",
+-1
+],
+"maglift": [
+"fpcNm_Obj_MagLift_e",
+-1
+],
+"marm": [
+"fpcNm_Obj_MagneArm_e",
+-1
+],
+"mhole": [
+"fpcNm_Obj_MHole_e",
+-1
+],
+"mhole2": [
+"fpcNm_Obj_MHole_e",
+-1
+],
+"midP": [
+"fpcNm_NPC_MIDP_e",
+-1
+],
+"mirror": [
+"fpcNm_MIRROR_e",
+-1
+],
+"mmvbg": [
+"fpcNm_SET_BG_OBJ_e",
+-1
+],
+"mstrsrd": [
+"fpcNm_Obj_MasterSword_e",
+-1
+],
+"mvbg_a": [
+"fpcNm_BG_OBJ_e",
+-1
+],
+"mvstair": [
+"fpcNm_Obj_MvStair_e",
+-1
+],
+"myn2tag": [
+"fpcNm_TAG_MYNA2_e",
+-1
+],
+"myna2": [
+"fpcNm_MYNA2_e",
+-1
+],
+"nadoor": [
+"fpcNm_DOOR20_e",
+-1
+],
+"ndoor": [
+"fpcNm_DOOR20_e",
+-1
+],
+"noChgRm": [
+"fpcNm_NO_CHG_ROOM_e",
+-1
+],
+"onsTaru": [
+"fpcNm_Obj_OnsenTaru_e",
+-1
+],
+"optLift": [
+"fpcNm_Obj_Lv8OptiLift_e",
+-1
+],
+"osiBLK0": [
+"fpcNm_Obj_Movebox_e",
+0
+],
+"osnFire": [
+"fpcNm_OBJ_ONSEN_FIRE_e",
+-1
+],
+"passer": [
+"fpcNm_PASSER_MNG_e",
+0
+],
+"passerL": [
+"fpcNm_PASSER_MNG_e",
+1
+],
+"pdoor": [
+"fpcNm_PushDoor_e",
+-1
+],
+"pdrobj": [
+"fpcNm_Obj_PushDoor_e",
+-1
+],
+"pfire": [
+"fpcNm_Obj_FirePillar2_e",
+-1
+],
+"pflower": [
+"fpcNm_GRASS_e",
+-1
+],
+"pflwrx7": [
+"fpcNm_GRASS_e",
+-1
+],
+"poCandl": [
+"fpcNm_Obj_poCandle_e",
+-1
+],
+"poTbox": [
+"fpcNm_Obj_poTbox_e",
+-1
+],
+"pofiTg": [
+"fpcNm_Tag_poFire_e",
+-1
+],
+"pofire": [
+"fpcNm_Obj_poFire_e",
+-1
+],
+"prayer": [
+"fpcNm_NPC_PRAYER_e",
+-1
+],
+"propy": [
+"fpcNm_Obj_Lv7PropY_e",
+-1
+],
+"r09wtr": [
+"fpcNm_Obj_WaterEff_e",
+-1
+],
+"rGate": [
+"fpcNm_Obj_SwallShutter_e",
+-1
+],
+"railDrw": [
+"fpcNm_PATH_LINE_e",
+-1
+],
+"rdoor": [
+"fpcNm_Obj_ZDoor_e",
+-1
+],
+"readRm": [
+"fpcNm_NO_CHG_ROOM_e",
+0
+],
+"roofHl": [
+"fpcNm_Obj_RfHole_e",
+-1
+],
+"rotTrap": [
+"fpcNm_Obj_RotTrap_e",
+-1
+],
+"rstair": [
+"fpcNm_Obj_RotStair_e",
+-1
+],
+"rvback": [
+"fpcNm_Tag_RiverBack_e",
+-1
+],
+"rwall": [
+"fpcNm_Obj_Lv4RailWall_e",
+-1
+],
+"sMaro": [
+"fpcNm_NPC_SMARO_e",
+-1
+],
+"scnChg": [
+"fpcNm_SCENE_EXIT_e",
+-1
+],
+"scnChg2": [
+"fpcNm_SCENE_EXIT2_e",
+-1
+],
+"sdoor": [
+"fpcNm_SPIRAL_DOOR_e",
+-1
+],
+"seiB": [
+"fpcNm_NPC_SEIB_e",
+-1
+],
+"seiC": [
+"fpcNm_NPC_SEIC_e",
+-1
+],
+"seiD": [
+"fpcNm_NPC_SEID_e",
+-1
+],
+"setball": [
+"fpcNm_Tag_SetBall_e",
+-1
+],
+"shoe": [
+"fpcNm_NPC_SHOE_e",
+-1
+],
+"sm_door": [
+"fpcNm_Obj_SM_DOOR_e",
+-1
+],
+"smblk": [
+"fpcNm_Obj_Movebox_e",
+2
+],
+"smgdoor": [
+"fpcNm_Obj_SmgDoor_e",
+-1
+],
+"smkdoor": [
+"fpcNm_Obj_SmgDoor_e",
+-1
+],
+"snwEfTg": [
+"fpcNm_Tag_SnowEff_e",
+-1
+],
+"solA": [
+"fpcNm_NPC_SOLA_e",
+-1
+],
+"spinLf": [
+"fpcNm_Obj_SpinLift_e",
+-1
+],
+"spiral2": [
+"fpcNm_Obj_Lv3R10Saka_e",
+-1
+],
+"spiralC": [
+"fpcNm_Obj_Lv3R10Saka_e",
+-1
+],
+"spnGear": [
+"fpcNm_Obj_Lv4Gear_e",
+-1
+],
+"spring": [
+"fpcNm_Tag_Spring_e",
+-1
+],
+"stBlock": [
+"fpcNm_Obj_StairBlock_e",
+-1
+],
+"stnMark": [
+"fpcNm_Obj_StoneMark_e",
+-1
+],
+"stone": [
+"fpcNm_Obj_Stone_e",
+-1
+],
+"stoneB": [
+"fpcNm_Obj_Stone_e",
+-1
+],
+"stopper": [
+"fpcNm_Obj_Stopper_e",
+-1
+],
+"swHit": [
+"fpcNm_SWHIT0_e",
+0
+],
+"swHit2": [
+"fpcNm_SWHIT0_e",
+1
+],
+"swLight": [
+"fpcNm_Obj_SwLight_e",
+0
+],
+"swStep": [
+"fpcNm_Obj_Lv8UdFloor_e",
+-1
+],
+"swTime": [
+"fpcNm_SwTime_e",
+-1
+],
+"swhel00": [
+"fpcNm_Obj_KWheel00_e",
+-1
+],
+"sword": [
+"fpcNm_Obj_Sword_e",
+-1
+],
+"swspin": [
+"fpcNm_Obj_SwSpinner_e",
+-1
+],
+"syRock": [
+"fpcNm_Obj_SyRock_e",
+-1
+],
+"szGate": [
+"fpcNm_Obj_Lv6SzGate_e",
+-1
+],
+"szbridg": [
+"fpcNm_Obj_SZbridge_e",
+-1
+],
+"taAmi": [
+"fpcNm_Obj_TaFence_e",
+-1
+],
+"tadoor": [
+"fpcNm_DOOR20_e",
+-1
+],
+"tboxA0": [
+"fpcNm_TBOX_e",
+-1
+],
+"tboxA1": [
+"fpcNm_TBOX_e",
+-1
+],
+"tboxA2": [
+"fpcNm_TBOX_e",
+-1
+],
+"tboxB0": [
+"fpcNm_TBOX_e",
+-1
+],
+"tboxB00": [
+"fpcNm_TBOX_e",
+-1
+],
+"tboxB01": [
+"fpcNm_TBOX_e",
+-1
+],
+"tboxB1": [
+"fpcNm_TBOX_e",
+-1
+],
+"tboxB2": [
+"fpcNm_TBOX_e",
+-1
+],
+"tboxEL0": [
+"fpcNm_TBOX2_e",
+-1
+],
+"tboxEL1": [
+"fpcNm_TBOX2_e",
+-1
+],
+"tboxJ0": [
+"fpcNm_TBOX_e",
+-1
+],
+"tboxP0": [
+"fpcNm_TBOX_e",
+-1
+],
+"tboxW0": [
+"fpcNm_TBOX_e",
+-1
+],
+"tbox_sw": [
+"fpcNm_TBOX_SW_e",
+0
+],
+"tgake": [
+"fpcNm_Obj_Gake_e",
+-1
+],
+"thdoor": [
+"fpcNm_Obj_TDoor_e",
+-1
+],
+"thouse": [
+"fpcNm_Obj_TobyHouse_e",
+-1
+],
+"tkrDai": [
+"fpcNm_Obj_TakaraDai_e",
+-1
+],
+"tmFire": [
+"fpcNm_Obj_TimeFire_e",
+-1
+],
+"tmoon": [
+"fpcNm_Obj_TMoon_e",
+-1
+],
+"togeRol": [
+"fpcNm_Obj_Lv6TogeRoll_e",
+-1
+],
+"togeTp": [
+"fpcNm_Obj_TogeTrap_e",
+-1
+],
+"turnSw": [
+"fpcNm_Obj_SwTurn_e",
+-1
+],
+"twGate": [
+"fpcNm_Obj_TwGate_e",
+-1
+],
+"unitC00": [
+"fpcNm_Obj_TestCube_e",
+-1
+],
+"unitCy0": [
+"fpcNm_Obj_TestCube_e",
+-1
+],
+"unitS00": [
+"fpcNm_Obj_TestCube_e",
+-1
+],
+"vshuter": [
+"fpcNm_Obj_Kshutter_e",
+-1
+],
+"wColumn": [
+"fpcNm_Obj_WaterPillar_e",
+-1
+],
+"wcover": [
+"fpcNm_Obj_WellCover_e",
+-1
+],
+"wdstick": [
+"fpcNm_Obj_WdStick_e",
+-1
+],
+"wfall": [
+"fpcNm_Obj_WaterFall_e",
+-1
+],
+"wimage": [
+"fpcNm_Obj_WoodStatue_e",
+-1
+],
+"window": [
+"fpcNm_Obj_Window_e",
+-1
+],
+"witem": [
+"fpcNm_ITEM_e",
+-1
+],
+"wshield": [
+"fpcNm_Obj_Shield_e",
+-1
+],
+"wsword": [
+"fpcNm_Obj_WoodenSword_e",
+-1
+],
+"wtGate": [
+"fpcNm_Obj_WtGate_e",
+-1
+],
+"yamiD": [
+"fpcNm_NPC_YAMID_e",
+-1
+],
+"yamiS": [
+"fpcNm_NPC_YAMIS_e",
+-1
+],
+"yamiT": [
+"fpcNm_NPC_YAMIT_e",
+-1
+],
+"yfire": [
+"fpcNm_Obj_FirePillar2_e",
+-1
+],
+"yiblltr": [
+"fpcNm_Obj_YIblltray_e",
+-1
+],
+"ykM": [
+"fpcNm_NPC_YKM_e",
+-1
+],
+"ykW": [
+"fpcNm_NPC_YKW_e",
+-1
+],
+"yodoor": [
+"fpcNm_DOOR20_e",
+-1
+],
+"zanB": [
+"fpcNm_NPC_ZANB_e",
+-1
+],
+"zdoor": [
+"fpcNm_Obj_ZDoor_e",
+-1
+],
+"zrA": [
+"fpcNm_NPC_ZRA_e",
+0
+],
+"zrAMark": [
+"fpcNm_ZRA_MARK_e",
+-1
+],
+"zrARock": [
+"fpcNm_Obj_ZraRock_e",
+-1
+],
+"zrC": [
+"fpcNm_NPC_ZRC_e",
+-1
+],
+"zrD": [
+"fpcNm_NPC_ZRA_e",
+4
+],
+"zrDrock": [
+"fpcNm_Obj_zrTurara_e",
+-1
+],
+"zrF": [
+"fpcNm_OBJ_ZRAFREEZE_e",
+0
+],
+"zrF2": [
+"fpcNm_OBJ_ZRAFREEZE_e",
+1
+],
+"zrF3": [
+"fpcNm_OBJ_ZRAFREEZE_e",
+2
+],
+"zrR": [
+"fpcNm_NPC_ZRA_e",
+3
+],
+"zrS": [
+"fpcNm_NPC_ZRA_e",
+1
+],
+"zrSP": [
+"fpcNm_NPC_ZRA_e",
+5
+],
+"zrSPA": [
+"fpcNm_NPC_ZRA_e",
+6
+],
+"zrWF": [
+"fpcNm_NPC_ZRA_e",
+2
+],
+"zrZ": [
+"fpcNm_NPC_ZRZ_e",
+-1
+]
+}
