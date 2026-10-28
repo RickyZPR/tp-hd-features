@@ -18,6 +18,7 @@ In the game, the mod is called **HD Features**.
   <img src="docs/showcase.gif" width="800" alt="HD Features in play: a stamp chest, the stamp book and a Cave of Shadows fight">
 </p>
 <p align="center"><em>Gameplay recorded in Dusklight 2.0.3 with HD Features 2.1.0. Two other mods were on too (Dawnlight, Roll and Sprint), so your HUD may look different.</em></p>
+<p align="center"><a href="https://github.com/RickyZPR/tp-hd-features/releases/download/v2.1.0/hd-features-showcase.mp4"><b>Watch the 1-minute showcase video, with sound</b></a> (MP4, 37 MB)</p>
 
 ## What it adds
 
@@ -81,4 +82,4 @@ Remove your user name and folder names from it first. Never attach game files or
 ## License
 
 This project's own code is under the [MIT License](LICENSE).
-*Twilight Princess* and everything made from the games belong to Nintendo. None of the game's files are in this repository; the animation at the top is a short recording of gameplay.
+*Twilight Princess* and everything made from the games belong to Nintendo. None of the game's files are in this repository; the animation at the top and the showcase video on the release are short recordings of gameplay.

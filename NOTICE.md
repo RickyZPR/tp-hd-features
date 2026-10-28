@@ -13,8 +13,10 @@ game text, fonts or logos. The code holds only the ids, flags, room numbers, siz
 needs to work with the game. The mod reads the player's own copies of the games and makes everything else on the
 player's PC. Those files must never be shared.
 
-The only picture of the game is the animation at the top of the README (`docs/showcase.gif`), a short recording
-of gameplay. What it shows belongs to Nintendo, and this project's MIT License does not cover it.
+The only pictures of the game are two short gameplay recordings: the animation at the top of the README
+(`docs/showcase.gif`) and the showcase video on the v2.1.0 release (`hd-features-showcase.mp4`, with game sound; its
+title card shows the *Twilight Princess HD* logo and stamps). What they show belongs to Nintendo, and this project's
+MIT License does not cover it.
 
 ## What the mod does on your PC
 
