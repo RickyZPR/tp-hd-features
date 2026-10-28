@@ -115,7 +115,8 @@ cos.xml
 meta.xml
 
 # Images, media, fonts, archives, binaries, scripts, logs and tables: this repository has none, except the
-# package's two neutral images below (drawn by tools/dist/base_art.py, no game art).
+# package's two neutral images (drawn by tools/dist/base_art.py, no game art) and the README's gameplay animation,
+# below.
 *.png
 *.jpg
 *.jpeg
@@ -142,6 +143,7 @@ meta.xml
 *.log
 *.csv
 *.bat
+!/docs/showcase.gif
 !/mods/hdfeatures/package/res/banner.png
 !/mods/hdfeatures/package/res/icon.png
 

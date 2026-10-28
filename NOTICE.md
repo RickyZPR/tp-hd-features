@@ -13,6 +13,9 @@ game text, fonts or logos. The code holds only the ids, flags, room numbers, siz
 needs to work with the game. The mod reads the player's own copies of the games and makes everything else on the
 player's PC. Those files must never be shared.
 
+The only picture of the game is the animation at the top of the README (`docs/showcase.gif`), a short recording
+of gameplay. What it shows belongs to Nintendo, and this project's MIT License does not cover it.
+
 ## What the mod does on your PC
 
 The mod reads your own game files on your PC and writes its files only to Dusklight's data folder

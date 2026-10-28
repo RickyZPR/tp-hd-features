@@ -33,6 +33,7 @@ Thank you also to everyone who worked on the zeldaret/tp decompilation. Duskligh
 - It is not affiliated with or endorsed by Nintendo.
 - *Twilight Princess*, *The Legend of Zelda*, GameCube, Wii U, amiibo and Miiverse are trademarks of Nintendo.
 - This repository and its releases contain **no Nintendo files**: no game data, textures, models, stages, sounds, game text, fonts or logos.
+  The only picture of the game is the animation at the top of the README (`docs/showcase.gif`), a short recording of gameplay.
   The code only uses names and numbers to refer to things in the game: short names (like "Cave of Shadows"), the actor names from the zeldaret/tp decompilation (`tools/formats/objnames.json`), and ids, flags and room numbers.
 - The mod reads your own copies of the games and makes its game files on your PC, in Dusklight's data folder
   (`mod_data\local.ricky.hdfeatures`). Those files stay on your PC. **Never share them.**

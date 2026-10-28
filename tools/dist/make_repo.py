@@ -23,13 +23,15 @@ Steps:
      its UPSTREAM.md tables) and its own notes; mods/hdfeatures/package/res/ only its 3 pinned files.
   2. Copies the allowlisted project files (FILES, TREES, third_party/, the package res files) and everything in
      repo_docs/ into a new temporary folder next to --out. Line endings as .gitattributes says (* text=auto
-     eol=lf: LF; third_party/** -text and *.png binary: the bytes as they are). Writes the .gitignore.
+     eol=lf: LF; third_party/** -text, *.png binary and docs/showcase.gif binary: the bytes as they are). Writes
+     the .gitignore.
   3. Scans every file there with make_release.py's Scanner (Nintendo magic numbers, files equal to a generated
      game file or to an HD-art PNG, 6-word runs of any TP HD or GC message, personal paths and e-mails) plus
-     repo rules: never-ship folders, names and file types; text only (except the 2 pinned package PNGs); the
-     author name only as the mod id or "Ricky"; the HD chest / talk-tag records written as hex bytes or as their
-     float positions; exact copies of research notes or generated files; no repo file is git-ignored, and every
-     never-ship file type is. The pinned third_party/ files are checked by hash only (not text-scanned).
+     repo rules: never-ship folders, names and file types; text only (except the 2 pinned package PNGs and the
+     pinned README animation, SHOWCASE); the author name only as the mod id or "Ricky"; the HD chest / talk-tag
+     records written as hex bytes or as their float positions; exact copies of research notes or generated files;
+     no repo file is git-ignored, and every never-ship file type is (and refused: MUST_REFUSE). The pinned
+     third_party/ files are checked by hash only (not text-scanned).
   4. Disclaimer check: README alert box, DISCLAIMER.md, MIT LICENSE, NOTICE.md, the release notes of
      make_release.py, the in-game line.
   5. Only if all of that passed: --out is emptied (except .git/) and the scanned files are copied into it.
@@ -93,11 +95,15 @@ TREES = [('mods/hdfeatures/src', ('.cpp', '.hpp', '.inc')),
 TRACE_ENTRIES = ('tools/build_assets.py', 'art/hdfeatures/make.py')       # + every tools/dist and tools/dev file
 TRACE_DIRS = ('formats', 'critic', 'cave', 'pipeline', 'dist', 'dev')     # the tools' sys.path folders
 
-# The package's own res files: the only binary files of the repo (the neutral icon and banner drawn by
-# tools/dist/base_art.py) and the notices text. Pinned in make_release.PINNED_RES.
+# The package's own res files: with SHOWCASE, the only binary files of the repo (the neutral icon and banner drawn
+# by tools/dist/base_art.py) and the notices text. Pinned in make_release.PINNED_RES.
 PACKAGE_RES_DIR = 'mods/hdfeatures/package/res'
 PACKAGE_RES = {'%s/%s' % (PACKAGE_RES_DIR, n.split('/', 1)[1]): pin for n, pin in mr.PINNED_RES.items()}
-BINARY_OK = {rel for rel in PACKAGE_RES if rel.endswith('.png')}
+# The README's animation (repo_docs/docs/showcase.gif): a 6 s silent gameplay recording of the mod in Dusklight.
+# Not a game file. The one image outside the package: this path with exactly these bytes (size, SHA-256). Any other
+# image, another .gif included, is still a never-ship file type. Scanned as a binary file, like the package PNGs.
+SHOWCASE = {'docs/showcase.gif': (6843810, '813a558542fe8900c5657dd93cb1b2878a2145b06a67187e927609ab84ddf510')}
+BINARY_OK = {rel for rel in PACKAGE_RES if rel.endswith('.png')} | set(SHOWCASE)
 # third_party/: vendored upstream files, kept byte for byte. Their SHA-256 (the same as the tables in
 # third_party/*/UPSTREAM.md; both are checked). They are not text-scanned: licence texts and C tables are not ours.
 THIRD_PARTY_DOCS = ('third_party/README.md', 'third_party/zlib/UPSTREAM.md', 'third_party/zstd/UPSTREAM.md')
@@ -196,7 +202,8 @@ test_discimg.py
 # saves): never commit them, not even one file.
 """ + ''.join('*%s\n' % e for e in GAME_EXT) + ''.join('%s\n' % n for n in GAME_NAMES) + """
 # Images, media, fonts, archives, binaries, scripts, logs and tables: this repository has none, except the
-# package's two neutral images below (drawn by tools/dist/base_art.py, no game art).
+# package's two neutral images (drawn by tools/dist/base_art.py, no game art) and the README's gameplay animation,
+# below.
 """ + ''.join('*%s\n' % e for e in OTHER_EXT) + ''.join('!/%s\n' % r for r in sorted(BINARY_OK)) + """
 # Dusklight's source code: cmake/FetchDusklight.cmake downloads it at configure time.
 /dusklight/
@@ -265,7 +272,12 @@ MUST_IGNORE = ['mods/hdfeatures/res/icon.png', 'mods/hdfeatures/res/cave/floors.
                'scratch/oracle/res/cave/floors.json', 'made/cache.json', 'made/cache.json.tmp',
                'made/files-efd9a593/res/stamps/stamps/stamps.json', 'made/files-efd9a593/res/x.md',
                'made/tmp-1/x.md', 'tools/dist/hdf_builder.py', 'tools/dist/hdf_inputs.py', 'tools/dist/discimg.py',
-               'tools/dist/test_discimg.py']
+               'tools/dist/test_discimg.py',
+               # the README animation's exception is that one path: any other image stays ignored
+               'docs/other.gif', 'docs/showcase.png', 'docs/x/showcase.gif', 'mods/hdfeatures/docs/showcase.gif']
+# Paths the repo rules must refuse (checked on every run): the image exceptions are exact paths, not file types.
+MUST_REFUSE = ['docs/other.gif', 'docs/showcase.png', 'docs/x/showcase.gif', 'mods/hdfeatures/docs/showcase.gif',
+               'showcase.gif', 'mods/hdfeatures/package/res/other.png']
 
 
 # ============================================================================================= helpers
@@ -339,6 +351,9 @@ def collect():
                     errors.append('repo_docs/%s would replace a project file of the same path' % rel)
                 else:
                     files[rel] = os.path.join(dp, f)
+    for rel in sorted(SHOWCASE):
+        if rel not in files:
+            errors.append('pinned file is missing: repo_docs/%s (README.md shows it)' % rel)
     for d in REQUIRED_DOCS:
         if d not in files:
             errors.append('DOCS: repo_docs/%s is missing' % d)
@@ -625,13 +640,14 @@ class RepoScan(object):
                 self.problems.append('%s: sha256 %s, not the pinned upstream %s' % (rel, h[:16],
                                                                                   THIRD_PARTY_PINS[rel][:16]))
             return True
-        if rel in PACKAGE_RES:
-            size, sha = PACKAGE_RES[rel]
+        if rel in PACKAGE_RES or rel in SHOWCASE:
+            size, sha = PACKAGE_RES.get(rel) or SHOWCASE[rel]
             if (len(data), h) != (size, sha):
                 self.problems.append('%s: %d bytes sha256 %s, not the pinned %d bytes %s' % (
                     rel, len(data), h[:16], size, sha[:16]))
             if rel in BINARY_OK:
-                self.sc.scan(rel, data, folders=False, text=False)   # PNG: same bytes / pixels as a game file?
+                # PNG: same bytes / pixels as a game file? GIF: game-file bytes or HD records inside?
+                self.sc.scan(rel, data, folders=False, text=False)
                 return True
         return False
 
@@ -776,8 +792,8 @@ def main(argv=None):
         rules = eol_rules(f.read())
     for rel in sorted(THIRD_PARTY_PINS)[:1] + sorted(BINARY_OK):
         if eol_for(rel, rules) != 'keep':
-            errors.append('.gitattributes: %s would get its line endings changed (needs third_party/** -text '
-                          'and *.png binary)' % rel)
+            errors.append('.gitattributes: %s would get its line endings changed (needs third_party/** -text, '
+                          '*.png binary and docs/showcase.gif binary)' % rel)
     staged, own = {}, set()
     for rel, src in sorted(files.items()):
         with open(src, 'rb') as f:
@@ -810,6 +826,13 @@ def main(argv=None):
         for rel, data in sorted(on_disk.items()):
             rs.path_rules(rel)
             rs.content(rel, data)
+        for rel in MUST_REFUSE:                  # self-test: the path rules still refuse these (no repo file)
+            n = len(rs.problems)
+            rs.path_rules(rel)
+            refused = len(rs.problems) > n
+            del rs.problems[n:]
+            if not refused:
+                rs.problems.append('%s: the repo rules let this never-ship path through (MUST_REFUSE)' % rel)
         gi = on_disk.get('.gitignore', b'').decode('utf-8')
         for line in gitignore().splitlines():
             if line and not line.startswith('#') and line not in gi.splitlines():

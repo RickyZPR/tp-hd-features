@@ -4,3 +4,5 @@
 third_party/** -text
 # The package's two images.
 *.png binary
+# The README's animation (pinned in tools/dist/make_repo.py).
+docs/showcase.gif binary

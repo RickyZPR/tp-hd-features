@@ -14,6 +14,11 @@ An unofficial fan mod for [Dusklight](https://twilitrealm.dev/), a PC port of *T
 It adds two things from *Twilight Princess HD*: the 50 stamps and the Cave of Shadows.
 In the game, the mod is called **HD Features**.
 
+<p align="center">
+  <img src="docs/showcase.gif" width="800" alt="HD Features in play: a stamp chest, the stamp book and a Cave of Shadows fight">
+</p>
+<p align="center"><em>Gameplay recorded in Dusklight 2.0.3 with HD Features 2.1.0. Two other mods were on too (Dawnlight, Roll and Sprint), so your HUD may look different.</em></p>
+
 ## What it adds
 
 **Stamps**
@@ -76,4 +81,4 @@ Remove your user name and folder names from it first. Never attach game files or
 ## License
 
 This project's own code is under the [MIT License](LICENSE).
-*Twilight Princess* and everything made from the games belong to Nintendo, and none of it is in this repository.
+*Twilight Princess* and everything made from the games belong to Nintendo. None of the game's files are in this repository; the animation at the top is a short recording of gameplay.

@@ -3,7 +3,8 @@
 Players don't need this page. Download the `.dusk` from Releases instead (see the [README](README.md)).
 
 This repository has no game files. The tests below need your own copies of the games, just like a player.
-Never commit or share anything made from the games (see [DISCLAIMER.md](DISCLAIMER.md)).
+Never commit or share anything made from the games (see [DISCLAIMER.md](DISCLAIMER.md)). The only exception is the
+README's short gameplay recording, `docs/showcase.gif`.
 
 ## What you need
 
